@@ -1,7 +1,3 @@
-Here’s a polished **README.md** draft you can use for your Power BI project. It’s professional, creative, and tailored to highlight your skills while showing the project’s real-world value (which boosts your hiring chances):
-
----
-
 # 🏥 GCC Healthcare Insights Dashboard – Power BI
 
 ## 📌 Project Overview
