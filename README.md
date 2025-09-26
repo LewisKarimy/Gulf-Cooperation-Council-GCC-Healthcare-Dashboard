@@ -94,6 +94,4 @@ By combining **data storytelling** with **Power BI visualizations**, this projec
 
 ✅ This project demonstrates my ability to **analyze, visualize, and communicate insights effectively**—skills directly transferable to roles in **data analytics, business intelligence, and operations support**.
 
----
 
-Would you like me to also create a **short version (2–3 paragraphs)** of this README that’s recruiter-friendly (for GitHub or portfolio), so busy HR/managers can quickly grasp the value without scrolling too much?
